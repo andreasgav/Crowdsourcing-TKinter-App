@@ -11,4 +11,4 @@ Disclaimer: This code is free to use and edit at will, however a citation of thi
 
 Notice: This is a work in process and the code can be modified in order to yield better results.
 
-(https://github.com/andreasgav/Crowdsourcing-TKinter-App/blob/main/Crowdsourcing-TKinter-App-Image.JPG)
+![This is an image](https://github.com/andreasgav/Crowdsourcing-TKinter-App/blob/main/Crowdsourcing-TKinter-App-Image.JPG)
